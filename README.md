@@ -1,0 +1,1 @@
+ Primeiro desenvolvimento onde ja nao fico tao perdidos nas tags em html e suas funçoes, algo bem simples mas olhando para tras onde eu nao entendia nada isso ja me deixa muito feliz. Para nao esquecer que tudo são fases deixo registrado aqui
